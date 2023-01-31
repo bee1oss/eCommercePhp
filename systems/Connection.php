@@ -1,7 +1,15 @@
 <?php
 
-try{
-    $db = new PDO("mysql:host=localhost; dbname=blog; charset=utf8;" , "root","");
-}catch (PDOException $error){
-    echo "<center><b>Could not connect to database!</b></center>"; $error->getMessage();
+
+namespace Systems;
+
+define('DB_HOST', 'localhost');
+define('DB_USER', 'root');
+define('DB_PASSWORD','');
+define('DB_DATABASE','ecommerce');
+
+class Connection
+{
+    
 }
+
