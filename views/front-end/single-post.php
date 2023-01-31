@@ -39,10 +39,10 @@
                                 <a href="#" class="text-dark small font-weight-bold"><i class="ti-back-right"></i> Replay</a>
                                 <div class="media mt-5">
                                     <a class="mr-3" href="#">
-                                    <img src="../../imgs/avatar.jpg" class="thumb-sm rounded-circle" alt="...">
+                                    <img src="../../imgs/avatar-3.jpg" class="thumb-sm rounded-circle" alt="...">
                                     </a>
                                     <div class="media-body align-items-center">
-                                        <h6 class="mt-0">Joe Mitchell</h6>
+                                        <h6 class="mt-0">Begench Hajyyew</h6>
                                         <p>Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus</p>
                                         <a href="#" class="text-dark small font-weight-bold"><i class="ti-back-right"></i> Replay</a>
 
@@ -59,7 +59,7 @@
                             </div>
                         </div>
                         <div class="media mt-4">
-                            <img src="../../imgs/avatar-3.jpg" class="mr-3 thumb-sm rounded-circle" alt="...">
+                            <img src="../../imgs/avatar.jpg" class="mr-3 thumb-sm rounded-circle" alt="...">
                             <div class="media-body">
                                 <h6 class="mt-0">Jean Wiley</h6>
                                 <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin.</p>
@@ -163,7 +163,7 @@
     <script src="../../vendors/bootstrap/bootstrap.bundle.js"></script>
 
     <!-- JoeBLog js -->
-    <script src="../../js/joeblog.js"></script>
+    <script src="../../js/jblog.js"></script>
 
 </body>
 </html>

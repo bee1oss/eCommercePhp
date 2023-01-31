@@ -24,7 +24,7 @@
 <script src="../../vendors/bootstrap/bootstrap.bundle.js"></script>
 
 <!-- JoeBLog js -->
-<script src="../../js/joeblog.js"></script>
+<script src="../../js/jblog.js"></script>
 
 </body>
 </html>

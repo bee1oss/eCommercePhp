@@ -1,6 +1,6 @@
 <div class="page-sidebar text-center">
     <h6 class="sidebar-title section-title mb-4 mt-3">About</h6>
-    <img src="../../imgs/avatar.jpg" alt="" class="circle-100 mb-3">
+    <img src="../../imgs/avatar-3.jpg" alt="" class="circle-100 mb-3">
     <div class="socials mb-3 mt-2">
         <a href="javascript:void(0)"><i class="ti-facebook"></i></a>
         <a href="javascript:void(0)"><i class="ti-twitter"></i></a>

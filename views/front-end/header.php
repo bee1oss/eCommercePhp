@@ -10,7 +10,7 @@
     <!-- font icons -->
     <link rel="stylesheet" href="../../vendors/themify-icons/css/themify-icons.css">
     <!-- Bootstrap + JoeBLog main styles -->
-    <link rel="stylesheet" href="../../css/joeblog.css">
+    <link rel="stylesheet" href="../../css/jblog.css">
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
 

@@ -44,7 +44,7 @@
                 <div class="card-footer d-flex justify-content-between align-items-center flex-basis-0">
                     <button class="btn btn-primary circle-35 mr-4"><i class="ti-back-right"></i></button>
                     <a href="single-post.php" class="btn btn-outline-dark btn-sm">READ MORE</a>
-                    <a href="#" class="text-dark small text-muted">By : Joe Mitchell</a>
+                    <a href="#" class="text-dark small text-muted">By : Begench Hajyyev</a>
                 </div>
             </div>
             <hr>
